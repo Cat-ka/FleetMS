@@ -10,6 +10,7 @@ public class FleetManagementSystemApplication {
 
 		SpringApplication.run(FleetManagementSystemApplication.class, args);
 		System.out.println("Starting code...");
+
 	}
 
 }
